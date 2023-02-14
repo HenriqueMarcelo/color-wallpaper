@@ -19,12 +19,12 @@ Some links that helped me:
 
 ## Where are the images?
 
-To use our collection, just "clone" the project and the images are already inside the [/images directory](/images).
+To use our collection, just "clone" the project and the images are already inside the [/images](/images) directory.
 
 ## Example images
 
 ![image exemple](/images/lime.png)
 ![image exemple](/images/magenta.png)
 ![image exemple](/images/crimson.png)
-![image exemple](/images/dark%20olive%20green.png)
 ![image exemple](/images/snow.png)
+![image exemple](/images/dark%20olive%20green.png)

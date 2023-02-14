@@ -19,7 +19,7 @@ Alguns links que me ajudaram:
 
 ## Onde estão as imagens?
 
-Para utilizar nossa coleção, basta fazer o "clone" do projeto que as imagens já estão dentro do [diretório /images](/images).
+Para utilizar nossa coleção, basta fazer o "clone" do projeto que as imagens já estão dentro do diretório [/images](/images).
 
 ## Exemplos de imagens
 
