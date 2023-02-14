@@ -26,5 +26,5 @@ Para utilizar nossa coleção, basta fazer o "clone" do projeto que as imagens j
 ![image exemple](/images/lime.png)
 ![image exemple](/images/magenta.png)
 ![image exemple](/images/crimson.png)
-![image exemple](/images/dark%20olive%20green.png)
 ![image exemple](/images/snow.png)
+![image exemple](/images/dark%20olive%20green.png)
